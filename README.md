@@ -1,5 +1,7 @@
+# Title: Effect of Fresh Frozen Food on Housing Prices in California 
+
 # RealEstateProject
-The purpose of the project is to understand the impact between having an influx of organic grocery stores vs. fast-food establishments on homeownership and rent prices in America in the last 20 years. 
+The purpose of the project is to understand the impact between having an influx of organic grocery stores vs. food desserts on house and rent prices in California in 2015 and 2019. 
 
 # Motivation
 The motivation of this project is to identify when and where to buy/rent a home in the United States based food access.
