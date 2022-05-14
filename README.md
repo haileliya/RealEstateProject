@@ -23,17 +23,17 @@ The motivation of this project is to identify when and where to buy/rent a home 
 ## Questions to Answer
 
 - What is the trend of housing prices over the last 20 years in the United States between communities with organic grocery stores versus fast-food restaurants?
-- - What is the difference appraisal value among these two groups?
-- - What is the difference listing value among these two groups?
-- - What is the difference selling value among these two groups?
+    - What is the difference appraisal value among these two groups?
+    - What is the difference listing value among these two groups?
+    - What is the difference selling value among these two groups?
 - What is the difference in demographics among the two groups?
-- - Who owns more homes in areas with more organic grocery stores vs fast-food restaurants?
+    - Who owns more homes in areas with more organic grocery stores vs fast-food restaurants?
 
 ### Machine Learning Questions
 
 - Can the model accurately predict the housing prices and rent prices in locations where there is an influx of organic grocery stores vs fast-food restaurants? 
-- - What will be the predicted housing interest rate?
-- - When is the best time to buy a house in these two groups?
+    - What will be the predicted housing interest rate?
+    - When is the best time to buy a house in these two groups?
 
 ## Misc. Information
 
