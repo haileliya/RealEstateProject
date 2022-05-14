@@ -14,7 +14,7 @@ https://github.com/haileliya/RealEstateProject
 
 ## Background
 
-Understanding the relationship between housing interest rates and housing appraised value, listing and selling price in California in the last 10 years. 
+The purpose of the project is to understand the impact between having an influx of organic grocery stores vs. fast-food establishments on homeownership and rent prices in America in the last 20 years. 
 
 ## Motivation
 
