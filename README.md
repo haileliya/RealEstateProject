@@ -22,6 +22,8 @@ The motivation of this project is to identify when and where to buy/rent a home 
 
 ## Questions to Answer
 
+### General Questions
+
 - What is the trend of housing prices over the last 20 years in the United States between communities with organic grocery stores versus fast-food restaurants?
     - What is the difference appraisal value among these two groups?
     - What is the difference listing value among these two groups?
