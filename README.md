@@ -42,21 +42,21 @@ https://realestate.usnews.com/real-estate/articles/does-the-new-whole-foods-in-y
 
 
 # DATA SETS
-####Zillow : Mortgage Rates Current mortgage rates from Zillow Mortgage Marketplace broken down by state and loan type (30 year fixed, 15 year fixed, 5/1 ARM).
+Zillow : Mortgage Rates Current mortgage rates from Zillow Mortgage Marketplace broken down by state and loan type (30 year fixed, 15 year fixed, 5/1 ARM).
 API calls of interest
 GetRateSummary API: http://www.zillow.com/howto/api/GetRateSummary.htm
 GetMonthlyPayments API: http://www.zillow.com/howto/api/GetRateSummary.htm
 https://www.zillow.com/howto/api/APIOverview.htm
 
-####Zillow: Home Valuations
+Zillow: Home Valuations
 Search results list, Zestimate®, Rent Zestimate®, home valuations, home valuation charts, comparable houses, and market trend charts.
 API calls of interest:
-●	GetSearchResults API: http://www.zillow.com/howto/api/GetSearchResults.htm
-●	GetZestimate API: http://www.zillow.com/howto/api/GetZestimate.htm
-●	GetChart API: http://www.zillow.com/howto/api/GetChart.htm
-●	GetComps API: http://www.zillow.com/howto/api/GetComps.htm
+GetSearchResults API: http://www.zillow.com/howto/api/GetSearchResults.htm
+GetZestimate API: http://www.zillow.com/howto/api/GetZestimate.htm
+GetChart API: http://www.zillow.com/howto/api/GetChart.htm
+GetComps API: http://www.zillow.com/howto/api/GetComps.htm
 
-####Whole Foods Location Dataset
+Whole Foods Location Dataset
 
 Dataset includes lat and long of locations, city, state, county
 https://www.scrapehero.com/store/product/whole-foods-market-store-locations-in-the-usa/
@@ -64,7 +64,7 @@ Number of locations available for download in this dataset are 509.
 This data set was last updated on May 09, 2022.
 $85 to purchase this dataset
 
-####Food Dessert Data 
+Food Dessert Data 
 
 https://www.ers.usda.gov/data-products/food-access-research-atlas/
 
@@ -79,4 +79,5 @@ https://www.ers.usda.gov/data-products/food-access-research-atlas/
 2. Draft a data dictionary
 3. Draft a schema for the data
 4. Draft code for cleaning the data in jupyter notebook
+
 
