@@ -14,7 +14,7 @@ https://github.com/haileliya/RealEstateProject
 
 ## Background
 
-The purpose of the project is to understand the impact between having an influx of organic grocery stores vs. fast-food establishments on homeownership and rent prices in America in the last 20 years. 
+Food deserts are areas with little access to nutritious and cost effective food, typically in areas of low income. Based on what we know about food deserts, can housing prices be predicted by analyzing trends of food access in certain areas?The purpose of the project is to understand the impact between having an influx of organic grocery stores vs. fast-food establishments on homeownership and rent prices in America in the last 20 years. 
 
 ## Motivation
 
