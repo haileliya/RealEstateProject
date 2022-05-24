@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#files for git ignore
+FoodAccessResearchAtlasData2019.xlsx
+
 # C extensions
 *.so
 
