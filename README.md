@@ -232,15 +232,4 @@ Food Dessert Data
 
 https://www.ers.usda.gov/data-products/food-access-research-atlas/
 
-# Action Items for 05/14/21: 12pm PST/3pm
-1. everyone needs to commit to their github before saturday
-2. set up API for our data via zillow
-3. research the best database to use for this project (relational database)
-4. finalize project write-up
-
-# Action Items for TBD
-1. Play with the data, become familiar with the data. 
-2. Draft a data dictionary
-3. Draft a schema for the data
-4. Draft code for cleaning the data in jupyter notebook
-
+Tableau: https://public.tableau.com/app/profile/yahel.epel/viz/Final_project_1test/FinalProject
